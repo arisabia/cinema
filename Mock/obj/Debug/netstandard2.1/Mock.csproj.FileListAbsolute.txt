@@ -1,0 +1,12 @@
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\Mock\bin\Debug\netstandard2.1\Mock.deps.json
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\Mock\bin\Debug\netstandard2.1\Mock.dll
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\Mock\bin\Debug\netstandard2.1\Mock.pdb
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\Mock\bin\Debug\netstandard2.1\Core.dll
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\Mock\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\Mock\obj\Debug\netstandard2.1\Mock.csproj.AssemblyReference.cache
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\Mock\obj\Debug\netstandard2.1\Mock.AssemblyInfoInputs.cache
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\Mock\obj\Debug\netstandard2.1\Mock.AssemblyInfo.cs
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\Mock\obj\Debug\netstandard2.1\Mock.csproj.CoreCompileInputs.cache
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\Mock\obj\Debug\netstandard2.1\Mock.csproj.CopyComplete
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\Mock\obj\Debug\netstandard2.1\Mock.dll
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\Mock\obj\Debug\netstandard2.1\Mock.pdb

@@ -1,0 +1,13 @@
+﻿@model Movie
+
+<h1>Delete</h1>
+
+<br />
+<form method="post">
+    <partial name="_InfoMovie" model="Model" />
+
+    <br />
+
+    <input type="submit" class="btn btn-outline-danger" value="Delete" />
+    <a class="btn btn-info" asp-controller="Movie" asp-action="Index">Back</a>
+</form>

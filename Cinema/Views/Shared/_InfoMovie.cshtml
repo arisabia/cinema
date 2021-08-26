@@ -1,0 +1,29 @@
+﻿<div>
+    <h3>Movie #@Model.Id</h3>
+    <dl class="row">
+        <dt class="col-sm-3">
+            Name
+        </dt>
+        <dt class="col-sm-3">
+            @Model.Name
+        </dt>
+        <dt class="col-sm-3">
+            Length
+        </dt>
+        <dt class="col-sm-3">
+            @Model.Length
+        </dt>
+        <dt class="col-sm-3">
+            type
+        </dt>
+        <dt class="col-sm-3">
+            @Model.Type
+        </dt>
+        <dt class="col-sm-3">
+           Release Date
+        </dt>
+        <dt class="col-sm-3">
+            @Model.ReleaseDate.ToShortDateString()
+        </dt>
+    </dl>
+</div>

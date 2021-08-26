@@ -1,0 +1,26 @@
+﻿@model MovieViewModel
+
+<div asp-validation-summary="All"></div>
+<div class="form-group">
+    <label asp-for="Name">Name </label>
+    <input asp-for="Name" />
+    <span asp-validation-for="Name"></span>
+
+</div>
+<div class="form-group">
+    <label asp-for="Length">Length </label>
+    <input asp-for="Length" />
+    <span asp-validation-for="Length"></span>
+</div>
+
+<div class="form-group">
+    <label asp-for="Type">Type</label>
+    <input asp-for="Type" />
+    <span asp-validation-for="Type"></span>
+</div>
+
+<div class="form-group">
+    <label asp-for="ReleaseDate">Release Date</label>
+    <input asp-for="ReleaseDate" />
+    <span asp-validation-for="ReleaseDate"></span>
+</div>

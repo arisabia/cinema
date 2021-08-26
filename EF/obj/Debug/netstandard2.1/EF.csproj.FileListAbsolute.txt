@@ -1,0 +1,12 @@
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\EF\bin\Debug\netstandard2.1\EF.deps.json
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\EF\bin\Debug\netstandard2.1\EF.dll
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\EF\bin\Debug\netstandard2.1\EF.pdb
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\EF\bin\Debug\netstandard2.1\Core.dll
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\EF\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\EF\obj\Debug\netstandard2.1\EF.csproj.AssemblyReference.cache
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\EF\obj\Debug\netstandard2.1\EF.AssemblyInfoInputs.cache
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\EF\obj\Debug\netstandard2.1\EF.AssemblyInfo.cs
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\EF\obj\Debug\netstandard2.1\EF.csproj.CoreCompileInputs.cache
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\EF\obj\Debug\netstandard2.1\EF.csproj.CopyComplete
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\EF\obj\Debug\netstandard2.1\EF.dll
+C:\Users\larisa.b.antonica\Desktop\Academy\week5\Cinema\EF\obj\Debug\netstandard2.1\EF.pdb
